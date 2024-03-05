@@ -1,6 +1,6 @@
 <h2 style= "blue">puts('Hello, I'm Cyrino!')</h2>
 <div>
-- Student of Software Development at SENAI Itajaí/SC.
+- Graduate of Software Development at SENAI Itajaí/SC.
 </br>
 - <a href="https://linktr.ee/cyrino">cyrino</a> in all socials 
 </div>
@@ -24,8 +24,7 @@
   <img align="center" alt="Cyrino-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 <br>
-<div align="center">
+<div align="">
   <a href="https://github.com/Cyrinoo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cyrinoo&show_icons=true&theme=midnight-purple"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyrinoo&layout=compact&langs_count=7&theme=dark"/>
 </div>
