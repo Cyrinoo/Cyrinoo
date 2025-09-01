@@ -1,6 +1,7 @@
 <h2 style= "blue">puts('Hello, I'm Cyrino!')</h2>
 <div>
 - Graduate of Software Development at SENAI, Itajaí, BR.
+  </br>
 - Studying Advanced Diploma of Information Technology at Canterbury Technical Institute, Gold Coast, AU.
 </br>
 - <a href="https://linktr.ee/cyrino">cyrino</a> in all socials 
